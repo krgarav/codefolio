@@ -109,11 +109,7 @@ export function Footer() {
           <p className="text-sm text-muted-foreground">
             &copy; {currentYear} Kumar Gaurav. All rights reserved.
           </p>
-          <p className="text-sm text-muted-foreground flex items-center gap-1">
-            Crafted with{" "}
-            <Heart className="inline h-4 w-4 text-red-500 fill-red-500 animate-pulse" />{" "}
-            using Next.js & Tailwind CSS
-          </p>
+         
         </div>
       </div>
     </footer>
